@@ -1,1 +1,48 @@
-/* Copy and paste your CSS from CodePen into here */
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-top: 30;
+}
+
+section {
+  color: #1D4289;
+  background-color: #E56DB1;
+  padding: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  border-radius: 50%;
+
+}
+
+figure img {
+    border-radius: 50%;
+      border: 5px solid #E56DB1;
+
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
+
+figure figcaption {
+    margin-top: 1%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    color: white;
+}
+
+
+footer {
+  background-color: #007a78;
+  color: #f2c75c
+  padding: 1%;
+  text-align:center;
+}
